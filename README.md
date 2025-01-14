@@ -12,25 +12,21 @@ A minimalist task management application with dark/light theme support.
 - **Custom lists**
 - **Task reminders**
 
-## Screenshots 📸
+## Screenshots![Screenshot from 2025-01-14 21-31-15](https://github.com/user-attachments/assets/9ee7afc4-7932-4f44-b634-965dd238956e)
+ 📸![Screenshot from 2025-01-14 21-31-35](https://github.com/user-attachments/assets/04d26122-01f2-44b2-a45c-feae0bb5fabe)![Screenshot from 2025-01-14 21-31-58](https://github.com/user-attachments/assets/996a911c-c31f-4a0f-8590-0740e09762e3)![Screenshot from 2025-01-14 21-32-04](https://github.com/user-attachments/assets/e08a7351-b937-4fb1-88c6-5dca9b6cf726)
+
+
+
 
 Here's how different sections of the app look:
 
 ### Authentication
 
-![Sign Up](./images/signup.png)  
 Sign up page with email registration
-
-![Sign In](./images/signin.png)  
+  ![Screenshot from 2025-01-14 21-32-55](https://github.com/user-attachments/assets/97404630-509b-463a-ae45-a4bec977861f)
+ 
 Simple and secure login
-
-### Main Features
-
-![Task Management](./images/tasks.png)  
-Create and manage tasks easily
-
-![Dark Theme](./images/dark-theme.png)  
-Easy on the eyes with dark mode
+![Screenshot from 2025-01-14 21-32-40](https://github.com/user-attachments/assets/84f021cb-0bdb-4f93-9302-660805e5564b)
 
 ## Quick Start 🚀
 
@@ -60,16 +56,8 @@ Easy on the eyes with dark mode
 Switch between light and dark themes using the toggle in the top right corner.
 
 ### Theme Examples
+![Screenshot from 2025-01-14 21-31-15](https://github.com/user-attachments/assets/90363b38-9828-435f-a7f9-82883c109580)
+![Screenshot from 2025-01-14 21-31-35](https://github.com/user-attachments/assets/6dcd855e-6eeb-480c-b723-7952ead3c0c9)
 
-![Light Theme](./images/light.png)  
-![Dark Theme](./images/dark.png)
-
-## Technical Notes 📝
-
-To display images in your `README.md`, ensure you:
-
-- Create an `images` folder in your project
-- Save your screenshots there
-- Use relative paths in markdown:
 
 
